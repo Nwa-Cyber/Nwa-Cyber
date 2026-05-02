@@ -33,5 +33,6 @@ To be a Cybersecurity professional focused on mastering penetration testing and 
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- SSH Enumeration & Credential Auditing Lab
+- Network Reconnaissance
+- Vulnerability Assessment 
