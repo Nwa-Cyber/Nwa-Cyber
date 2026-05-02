@@ -13,11 +13,9 @@ To be a Cybersecurity professional focused on mastering penetration testing and 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network Reconnaissance & Mapping         | <a href="https://google.com">Detection Lab</a>|
-| Automated Exploitation & Enumeration | <a href="https://google.com">Detection Lab</a>|
-| Packet Analysis & Traffic Inspection         | SOC Automation Lab|
-| Vulnerability Assessment & Remediation      | SOC Automation Lab|
-| Web Application Security & Interception        | SOC Automation Lab|
+| Network Reconnaissance & Mapping         | https://github.com/Nwa-Cyber/SSH-Exploitation-Lab.git
+| Automated Exploitation & Enumeration | https://github.com/Nwa-Cyber/SSH-Exploitation-Lab.git
+| Vulnerability Assessment & Remediation      |https://github.com/Nwa-Cyber/SSH-Exploitation-Lab.git
 
 ## Tools
 
