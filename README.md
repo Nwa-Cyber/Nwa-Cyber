@@ -15,7 +15,7 @@ To be a Cybersecurity professional focused on mastering penetration testing and 
 |-----------------------------------------------|----------------------------|
 | Network Reconnaissance & Mapping         | https://github.com/Nwa-Cyber/SSH-Exploitation-Lab.git
 | Automated Exploitation & Enumeration | https://github.com/Nwa-Cyber/SSH-Exploitation-Lab.git
-| Vulnerability Assessment & Remediation      |https://github.com/Nwa-Cyber/SSH-Exploitation-Lab.git
+| Vulnerability Assessment & Remediation  |https://github.com/Nwa-Cyber/Vulnerability-Assessment-Burpsuite-Exploit-Lab.git
 
 ## Tools
 
